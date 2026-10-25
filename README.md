@@ -109,6 +109,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [opencryptography.com](https://opencryptography.com/) - Free public database of 10,000+ unique Docker image scans for hidden cryptographic assets and critical implementation flaws
 - [pathfinding.cloud](https://pathfinding.cloud/paths/) - Comprehensive, community-maintained library documenting AWS IAM privilege escalation paths
 - [BaseFortify.eu](https://basefortify.eu/) - Monitor software vulnerabilities with CVE matching, exploit risk alerts, and mitigation guidance
+- [PatchBell](https://patchbell.com/) - Look up which version fixes a vulnerability, per distro and host, with official sources checked line by line
 
 ### Exploits
 
@@ -420,6 +421,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach with sources
 - [XposedOrNot](https://xposedornot.com/) - Free, open-source data breach search: see which known breaches an email appears in and what was exposed
 - [Have I Been Ransomed?](https://haveibeenransom.com/) - Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches
+- [Breach House](https://breach.house/) - Free, open search of ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email
 
 ### Hidden Services
 
