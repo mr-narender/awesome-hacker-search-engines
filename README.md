@@ -109,6 +109,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [opencryptography.com](https://opencryptography.com/) - Free public database of 10,000+ unique Docker image scans for hidden cryptographic assets and critical implementation flaws
 - [pathfinding.cloud](https://pathfinding.cloud/paths/) - Comprehensive, community-maintained library documenting AWS IAM privilege escalation paths
 - [BaseFortify.eu](https://basefortify.eu/) - Monitor software vulnerabilities with CVE matching, exploit risk alerts, and mitigation guidance
+- [PatchBell](https://patchbell.com/) - Look up which version fixes a vulnerability, per distro and host, with official sources checked line by line
+- [PatchWindow](https://patchwindow.com/) - Time-to-exploit research for every CVE in the CISA Known Exploited Vulnerabilities catalog from 2019 onwards
 
 ### Exploits
 
@@ -180,6 +182,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leaks test and many others
 - [lookup.disclose.io](https://lookup.disclose.io/) - Find who owns any internet asset and the right security & disclosure contact
 - [db-ip](https://db-ip.com/) - IP geolocation API and database
+- [pureip.app](https://pureip.app) - IP lookups, website egress routing, WebRTC checks, global Ping, service status and WHOIS lookups
+- [IP99](https://ip99.com) - IP risk scoring, proxy/VPN/datacenter detection and geolocation API, with passive DNS and certificate transparency
 
 ### Code
 
@@ -214,6 +218,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [RapidAPI Public Hub](https://rapidapi.com/hub) - Explore the world's largest API marketplace
 - [Repogrep](https://app.ami.dev/repogrep) - AI coding agent that can search across any public GitHub repository
 - [SearchWebCode](https://www.searchwebcode.com/) - Exact-string and regex search over the HTML, JS and CSS of 127 million website homepages
+- [PageSourceSearch](https://www.pagesourcesearch.com/) - Search the HTML and first-party JavaScript of websites by exact string or regular expression
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
 ### Email Addresses
 
@@ -291,6 +297,8 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Argos OSINT Dominio](https://argos-osint.com/dominio/) - Free unified domain intel dashboard combining WHOIS/RDAP, DoH DNS resolution and subdomain enumeration
 - [MerkleMap](https://www.merklemap.com/) - Discover subdomains and SSL/TLS certificates from Certificate Transparency logs
 - [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
+- [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
+- [NetAPI](https://netapi.com/) - Download domain lists, WHOIS and DNS datasets and newly registered domains, manually or via API
 
 ### URLs
 
@@ -337,6 +345,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [dnslookup.pro](https://dnslookup.pro/) - Advanced DNS Record Analysis & Troubleshooting
 - [ViewDNS.info](https://viewdns.info/) - A web-based toolkit offering over 25 DNS and network intelligence tools for reconnaissance, diagnostics, and research
 - [dnsaudit.io](https://dnsaudit.io/) - Find DNS misconfigurations, risks and security gaps
+- [WebToolBench DNS Checker](https://www.webtoolbench.com/dns-checker) - Free DNS lookup for A, MX, TXT, NS, CNAME, SOA and CAA records, queried live from the authoritative nameservers
 
 ### Certificates
 
@@ -412,6 +421,9 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Venacus](https://venacus.com/) - Search across 70+ TB of data breaches and leaked documents
 - [Leaksyr](https://leaksyr.com/) - Enterprise-grade threat intelligence to identify compromised credentials and secure your digital assets against data breaches
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach with sources
+- [XposedOrNot](https://xposedornot.com/) - Free, open-source data breach search: see which known breaches an email appears in and what was exposed
+- [Have I Been Ransomed?](https://haveibeenransom.com/) - Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches
+- [Breach House](https://breach.house/) - Free, open search of ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email
 
 ### Hidden Services
 
@@ -503,6 +515,7 @@ These can be useful for osint and social engineering.
 - [Image Identify](https://www.imageidentify.com/) - Image recognition site, just drag your image & identify
 - [ScamDigger](https://www.scamdigger.com/picsearch.php) - You will see if that picture belongs to somebody else, was used by somebody else, already scamlisted, etc
 - [metadataremover.ai](https://metadataremover.ai/) - Remove supported EXIF, GPS, XMP, IPTC and AI metadata from JPG, PNG and WebP images directly in your browser
+- [SauceMatch](https://saucematch.com/) - Reverse video search over its own index of adult video: finds the source video of a screenshot, GIF or clip and scores each match 0-100 (18+)
 
 ### Threat Intelligence
 
@@ -593,6 +606,7 @@ These can be useful for osint and social engineering.
 - [Malwagon](https://malwagon.com) - Search detonated malware samples by hash, IP, domain, URL, mutex, registry key or JA3/JA4
 - [Scamalytics](https://scamalytics.com) - IP address fraud scoring with VPN, proxy and TOR detection
 - [isMalicious](https://ismalicious.com/) - Check the reputation of IP addresses, domains, URLs and file hashes
+- [Orca AI Incident Archive](https://www.orcarouter.ai/incident-archive) - Search and filter real-world AI agent security events by type, severity and confirmed harm
 
 ### Web History
 
@@ -643,6 +657,7 @@ These can be useful for osint and social engineering.
 - [BlockChair](https://blockchair.com/) - Blockchain explorer, analytics and web services
 - [BlockCypher](https://live.blockcypher.com/) - Search the block chain
 - [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free wallet check across Ethereum, Bitcoin, Tron, Base, Arbitrum and Gnosis: sanctions, mixer exposure and risk tier, no account required
+- [SoChain](https://sochain.com/) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash: addresses, transactions and blocks, free keyless lookups
 
 ### People
 
@@ -679,6 +694,8 @@ These can be useful for osint and social engineering.
 - [Xquik](https://xquik.com/) - Search public X posts, inspect public profiles, monitor keywords and use REST or MCP workflows for X data
 - [Sherlock Search](https://www.sherlocksearch.com/) - Upload one photo and Sherlock finds where that face appears across 9+ social platforms and public records
 - [Offendersearch](https://offendersearch.app/) - Search 58 US sex offender registries, covering the 50 states, DC and the US territories, in one query
+- [IGDataHub](https://igdatahub.com/) - Look up public Instagram profiles: followers, engagement rate and top posts
+- [aifacesearch.net](https://aifacesearch.net/) - Photo-based face search with possible visual matches and source links
 
 ### Vehicle
 
@@ -701,6 +718,8 @@ make, model, year of manufacture, engine size and all available information
 - [Known Agents](https://knownagents.com/) - Track and Control Artificial Agents Crawling Your Website
 - [Not Human Search](https://nothumansearch.ai) - Search engine for AI agent tools and infrastructure. Indexes 1,750+ sites ranked by agentic readiness score with REST API and MCP server
 - [Barcodepedia](https://barcodepedia.com/) - Search products by EAN/UPC barcode, brand or company and see who owns the brand, who makes it under licence and who registered the barcode, with every fact cited
+- [TGScope](https://tgscope.io/) - Search 3M+ public Telegram channels by topic, language and size, with per-channel stats and free channel lookup tools
+- [Awesome Reverse-Engineered](https://awesome.alexgaoth.com/) - Search 16,800+ open-source projects built by reverse engineering closed apps, APIs, devices, protocols, file formats and games
 
 ### Not working / Paused
 
