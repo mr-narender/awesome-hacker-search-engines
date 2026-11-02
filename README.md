@@ -299,6 +299,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Fraudpol Scan](https://fraudpol.com/scan) - Find registered lookalike domains of a brand via certificate transparency logs
 - [StackScan](https://www.stackscan.com/) - Search sites by technology, keyword, or the files and assets they serve
 - [NetAPI](https://netapi.com/) - Download domain lists, WHOIS and DNS datasets and newly registered domains, manually or via API
+- [Profundis](https://profundis.io/tools/subdomains) - Find subdomains from indexed DNS records, with downloadable results and API access
 
 ### URLs
 
@@ -532,7 +533,6 @@ These can be useful for osint and social engineering.
 - [urlhaus.abuse.ch](https://urlhaus.abuse.ch/browse/) - Propose new malware urls
 - [threatfox.abuse.ch](https://threatfox.abuse.ch/browse/) - Indicator Of Compromise (IOC) database
 - [yaraify.abuse.ch](https://yaraify.abuse.ch/) - Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules
-- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
 - [otx.alienvault](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community
 - [urlquery.net](https://urlquery.net/) - Service for detecting and analyzing web-based malware
 - [socradar.io](https://socradar.io/) - Extension to your SOC team
@@ -696,6 +696,7 @@ These can be useful for osint and social engineering.
 - [Offendersearch](https://offendersearch.app/) - Search 58 US sex offender registries, covering the 50 states, DC and the US territories, in one query
 - [IGDataHub](https://igdatahub.com/) - Look up public Instagram profiles: followers, engagement rate and top posts
 - [aifacesearch.net](https://aifacesearch.net/) - Photo-based face search with possible visual matches and source links
+- [TwitterAPI.io](https://twitterapi.io/) - Search public X (Twitter) posts by keyword, user and date, and look up public profiles, followers and followings
 
 ### Vehicle
 
@@ -734,6 +735,7 @@ make, model, year of manufacture, engine size and all available information
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet
 - [Riddler](https://riddler.io/) - Allows you to search in a high quality dataset
 - [AskDNS](https://askdns.com/) - Lookup Connected Domain Names and IP Addresses
+- [Rescure](https://rescure.me/) - Curated cyber threat intelligence for everyone
 
 <!-- markdown-link-check-enable -->
 
