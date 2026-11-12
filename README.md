@@ -250,6 +250,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [validemail.io](https://validemail.io/) - Validate email addresses for deliverability with our Email Validation API
 - [Predicta Search](https://www.predictasearch.com/) - Reverse lookup search engine for email and phone numbers
 - [Infoga.io](https://www.infoga.io/) - Find out all email for a certain domain using search engines
+- [icypeas](https://www.icypeas.com/) - Find and verify professional email addresses, enrich leads with accurate data, and identify LinkedIn profiles at scale
 
 ### Domains
 
@@ -608,6 +609,7 @@ These can be useful for osint and social engineering.
 - [Scamalytics](https://scamalytics.com) - IP address fraud scoring with VPN, proxy and TOR detection
 - [isMalicious](https://ismalicious.com/) - Check the reputation of IP addresses, domains, URLs and file hashes
 - [Orca AI Incident Archive](https://www.orcarouter.ai/incident-archive) - Search and filter real-world AI agent security events by type, severity and confirmed harm
+- [Whatoblock](https://whatoblock.com/) - Live threat intelligence from honeypot sensors: search scanners, botnet C2, proxies, Tor exits and DDoS sources by IP, port, ASN and country
 
 ### Web History
 
@@ -699,6 +701,7 @@ These can be useful for osint and social engineering.
 - [IGDataHub](https://igdatahub.com/) - Look up public Instagram profiles: followers, engagement rate and top posts
 - [aifacesearch.net](https://aifacesearch.net/) - Photo-based face search with possible visual matches and source links
 - [TwitterAPI.io](https://twitterapi.io/) - Search public X (Twitter) posts by keyword, user and date, and look up public profiles, followers and followings
+- [twtData](https://twtdata.com/) - Export the followers, following and tweets of public X (Twitter) accounts to CSV, by handle, keyword or hashtag
 
 ### Vehicle
 
@@ -722,6 +725,7 @@ make, model, year of manufacture, engine size and all available information
 - [Not Human Search](https://nothumansearch.ai) - Search engine for AI agent tools and infrastructure. Indexes 1,750+ sites ranked by agentic readiness score with REST API and MCP server
 - [Barcodepedia](https://barcodepedia.com/) - Search products by EAN/UPC barcode, brand or company and see who owns the brand, who makes it under licence and who registered the barcode, with every fact cited
 - [TGScope](https://tgscope.io/) - Search 3M+ public Telegram channels by topic, language and size, with per-channel stats and free channel lookup tools
+- [tgden](https://tgden.com) - Search engine and catalog for Telegram: 1,740,000+ channels, 250,000+ group chats and 228,000+ bots, weekly demand index and MCP server
 - [Awesome Reverse-Engineered](https://awesome.alexgaoth.com/) - Search 16,800+ open-source projects built by reverse engineering closed apps, APIs, devices, protocols, file formats and games
 
 ### Not working / Paused
